@@ -1,3 +1,3 @@
 def cal (){
-     sh 'mvn test'
+     sh 'mvn test' 
 }
